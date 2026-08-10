@@ -1,5 +1,5 @@
 
-git clone https://github.com/https://github.com/rootkalilocalhost/Kali-Docker.git
+git clone https://github.com/rootkalilocalhost/Kali-Docker.git
 
 cd Kali-Docker
 
